@@ -1,4 +1,5 @@
 # Scientific Research Summary:  
+- [x] https://sci-hub.se/downloads/2020-10-12/5f/wu2020.pdf
 **"Concept and Engineering Development of Cyber Physical Production Systems: A Systematic Literature Review"**  
 *(Wu et al., 2020 | DOI: [10.1007/s00170-020-06110-2](https://doi.org/10.1007/s00170-020-06110-2))*  
 

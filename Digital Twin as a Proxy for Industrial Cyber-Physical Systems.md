@@ -1,3 +1,4 @@
+- [x] https://www.diva-portal.org/smash/get/diva2:1608076/FULLTEXT01.pdf
 # Structured Summary of "Digital Twin as a Proxy for Industrial Cyber-Physical Systems"
 
 ## **Problem Statement**  

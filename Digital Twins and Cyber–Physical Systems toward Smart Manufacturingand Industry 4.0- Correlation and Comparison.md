@@ -1,3 +1,4 @@
+- [x] https://www.sciencedirect.com/science/article/pii/S209580991830612X
 # Scientific Research Summary:  
 **"Digital Twins and Cyber–Physical Systems toward Smart Manufacturing and Industry 4.0: Correlation and Comparison"**  
 *(Tao et al., 2019 | DOI: [10.1016/j.eng.2019.01.014](https://doi.org/10.1016/j.eng.2019.01.014))*  
