@@ -1,3 +1,4 @@
+
 # Scientific Research Summary:  
 - [x] https://sci-hub.se/downloads/2020-10-12/5f/wu2020.pdf
 **"Concept and Engineering Development of Cyber Physical Production Systems: A Systematic Literature Review"**  
@@ -76,3 +77,5 @@ To conduct a **systematic literature review (SLR)** analyzing the development of
 **Key Terms**: Cyber-Physical Production Systems (CPPS), 5C Architecture, RAMI 4.0, Digital Twin, Systematic Literature Review (SLR).  
 
 *Summarized per guidelines from "How to Summarize a Research Article" (University of Washington, 1997-2006).*  
+
+[[Review]]

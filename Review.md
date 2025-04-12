@@ -57,3 +57,4 @@ Based on the analysis, this paper aims to:
 
 Cyber-Physical Systems empowered by Digital Twins are shaping the next generation of industrial and autonomous systems. The 11 papers reviewed reveal significant progress in theory and application — but also point to persistent challenges in integration, real-time operation, and system-level coordination. Through a focused comparative analysis, this article identifies the most urgent issues and provides direction for further research, laying the foundation for more robust, secure, and scalable CPS solutions in the era of Industry 4.0 and beyond.
 
+[[README]]

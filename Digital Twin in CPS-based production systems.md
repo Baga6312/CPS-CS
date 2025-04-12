@@ -60,3 +60,5 @@ The authors conducted a **systematic literature review** of English-language pub
 ## Conclusion
 
 The study clarifies DT’s definition as a **virtual, real-time synchronized model** of physical systems, emphasizing its transformative role in Industry 4.0. While research is nascent, DT’s integration with CPS and semantic frameworks promises advancements in predictive maintenance, lifecycle optimization, and smart manufacturing.
+
+[[Review]]

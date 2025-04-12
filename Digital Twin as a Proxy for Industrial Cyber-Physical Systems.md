@@ -73,3 +73,5 @@ DTaaP effectively addresses ICPS challenges by offloading tasks to DTs, improvin
 Abdullah Aziz, Olov Schelén, and Ulf Bodin. 2023. Digital Twin as a Proxy for Industrial Cyber-Physical Systems. In *icWCSN 2023*. ACM, New York, NY, USA. https://doi.org/10.1145/3585967.3585982  
 
 **Keywords**: Digital Twins, CPS, Industry 4.0, DTaaP.  
+
+[[Review]]

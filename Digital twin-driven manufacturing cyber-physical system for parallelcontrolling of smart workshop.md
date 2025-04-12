@@ -64,3 +64,6 @@ The study addresses challenges in implementing **Cyber-Physical Systems (CPS)** 
 The DT-driven MCPS framework successfully bridges physical and cyber spaces, enabling agile, customer-centric manufacturing. By combining **decentralized intelligence** with **holistic parallel control**, it addresses the complexities of mass individualization. Future work includes integrating cloud computing for scalability and advancing big data analytics for deeper insights.
 
 _Adapted from Leng et al. (2019). Digital twin-driven manufacturing cyber-physical system for parallel controlling of smart workshop. Journal of Ambient Intelligence and Humanized Computing.**_**
+
+
+[[Review]]

@@ -58,3 +58,5 @@ The study explores the integration of **Functional Mock-up Units (FMUs)** into *
 The study demonstrates that **FMU-supported Digital Twins**, combined with semantic data models, enhance simulation flexibility and interoperability in CPS-based manufacturing. By modularizing system behaviors and standardizing interfaces, this approach supports digital continuity and real-time adaptability, critical for Industry 4.0 advancements.
 
 _Adapted from Negri et al. (2019). FMU-supported simulation for CPS Digital Twin. Procedia Manufacturing, 28, 201–206._
+
+[[README]]

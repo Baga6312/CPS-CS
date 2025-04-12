@@ -81,3 +81,6 @@ The study conducts a comprehensive comparison of **Big Data** and **Digital Twin
 The study underscores that **Big Data** and **Digital Twin** are mutually reinforcing technologies critical to Industry 4.0. While Big Data unlocks value from data, DT bridges virtual and physical worlds for dynamic optimization. Their convergence drives smarter, more responsive manufacturing systems.
 
 _Adapted from Qi & Tao (2018). Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0: 360 Degree Comparison. IEEE Access, 6, 3585–3593._
+
+
+[[Review]]

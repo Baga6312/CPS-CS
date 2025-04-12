@@ -82,3 +82,6 @@
 
 ## **6. Conclusion**  
 Digital Twins are reshaping industries by merging physical and digital realms. While challenges like cost and data security persist, advancements in IoT, AI, and cloud technologies will drive adoption. Future applications will focus on sustainability, personalization, and real-time adaptability.  
+
+
+[[Review]]

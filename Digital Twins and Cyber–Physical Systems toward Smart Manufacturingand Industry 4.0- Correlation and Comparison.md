@@ -83,3 +83,6 @@ To systematically compare **Cyber-Physical Systems (CPS)** and **Digital Twins (
 1. Clarifies CPS/DT distinctions and synergies.  
 2. Hierarchical framework for implementation (unit → system → SoS).  
 3. Actionable pathways for IoT/cloud/AI integration.  
+
+
+[[Review]]
