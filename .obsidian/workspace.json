@@ -24,45 +24,17 @@
             }
           },
           {
-            "id": "7ec28a5dd57a1027",
+            "id": "10b34c4055da24eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital twins in CPS and relationship with Control System.md",
+                "file": "Beginner's Guide to Digital Twins-sammury.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital twins in CPS and relationship with Control System"
-            }
-          },
-          {
-            "id": "9e28b73eecdbe197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0-360 Degree Comparison.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0-360 Degree Comparison"
-            }
-          },
-          {
-            "id": "0890c5bd756be376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FMU-supported simulation for CPS Digital Twin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FMU-supported simulation for CPS Digital Twin"
+              "title": "Beginner's Guide to Digital Twins-sammury"
             }
           }
         ],
@@ -211,21 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ec28a5dd57a1027",
+  "active": "10b34c4055da24eb",
   "lastOpenFiles": [
+    "Review.md",
+    "README.md",
+    "Pasted image 20250412235633.png",
+    "Digital twins in CPS and relationship with Control System.md",
+    "Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
     "Digital twin-driven manufacturing cyber-physical system for parallelcontrolling of smart workshop.md",
     "Digital Twin- Benefits, use cases, challenges, and opportunities.md",
-    "Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
-    "Digital twins in CPS and relationship with Control System.md",
-    "FMU-supported simulation for CPS Digital Twin.md",
+    "Comparative-Table.md",
     "Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0-360 Degree Comparison.md",
+    "FMU-supported simulation for CPS Digital Twin.md",
     "Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
     "Digital Twin in CPS-based production systems.md",
     "FAULT--Digital twins in CPS and relationship with Control System.md",
     "Beginner's Guide to Digital Twins-sammury.md",
     "Digital twin paradigm-A systematic literature review.md",
     "Digital Twin as a Proxy for Industrial Cyber-Physical Systems.md",
-    "README.md",
     "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",
     "CPS/sem-2/projects/Control Syste Project/Digital twins in CPS and relationship with Control System.md",
     "CTF/HTB/machines/titanic/titanic.md",
@@ -246,7 +221,6 @@
     "Pasted image 20250407100958.png",
     "Pasted image 20250407100807.png",
     "Pasted image 20250407100527.png",
-    "CTF/HTB/machines/dog/assets/Pasted image 20250407045856.png",
     "CTF/HTB/machines/dog/secrets",
     "CTF/HTB/machines/dog/dog.htb/themes/README.md",
     "CTF/HTB/machines/dog/dog.htb/themes",
@@ -255,9 +229,6 @@
     "CTF/HTB/machines/dog/dog.htb/sites/README.md",
     "CTF/HTB/machines/dog/dog.htb/sites",
     "CTF/HTB/machines/dog/dog.htb/robots.txt",
-    "CTF/HTB/machines/dog/dog.htb/layouts/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/staging/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/active/README.md",
-    "CTF/HTB/machines/dog/dog.htb/files/README.md"
+    "CTF/HTB/machines/dog/dog.htb/layouts/README.md"
   ]
 }
