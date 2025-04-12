@@ -33,10 +33,14 @@
             "id": "10b34c4055da24eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -186,8 +190,9 @@
   },
   "active": "10b34c4055da24eb",
   "lastOpenFiles": [
-    "Review.md",
     "FMU-supported simulation for CPS Digital Twin.md",
+    "README.md",
+    "Review.md",
     "Comparative-Table.md",
     "Beginner's Guide to Digital Twins-sammury.md",
     "Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
@@ -199,7 +204,6 @@
     "Digital twin-driven manufacturing cyber-physical system for parallelcontrolling of smart workshop.md",
     "Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
     "Digital twins in CPS and relationship with Control System.md",
-    "README.md",
     "Pasted image 20250412235633.png",
     "FAULT--Digital twins in CPS and relationship with Control System.md",
     "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",

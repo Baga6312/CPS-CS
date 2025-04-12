@@ -10,6 +10,9 @@ A digital twin is a virtual representation of an object or system designed to re
 # Key words 
 Control System , Cyber Physical Productions System , Digital Twin , 3C , PLM
 
+# Software 
+Obsidian 
+
 ---
 
 - [x] https://writingcenter.uconn.edu/wp-content/uploads/sites/593/2014/06/How_to_Summarize_a_Research_Article1.pdf
