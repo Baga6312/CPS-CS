@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Drafts/Comparative-Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Comparative-Table"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72048f869e8728a2",
+  "active": "bfc2b4c15c4dc3b1",
   "lastOpenFiles": [
+    "Summary/Beginner's Guide to Digital Twins-sammury.md",
+    "Drafts",
+    "README.md",
+    "Summary",
     "PDF/wu2020.pdf",
     "PDF/semeraro2021.pdf",
     "PDF/FULLTEXT01.pdf",
@@ -207,28 +211,23 @@
     "PDF/1-s2.0-S2351978918313763-main.pdf",
     "PDF/1-s2.0-S2351978917304067-main.pdf",
     "PDF/1-s2.0-S277266222300005X-main.pdf",
-    "PDF/1-s2.0-S209580991830612X-main.pdf",
-    "PDF",
-    "Review.md",
-    "Comparative-Table.md",
-    "FMU-supported simulation for CPS Digital Twin.md",
-    "README.md",
-    "Beginner's Guide to Digital Twins-sammury.md",
-    "Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
-    "Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0-360 Degree Comparison.md",
-    "Digital Twin as a Proxy for Industrial Cyber-Physical Systems.md",
-    "Digital Twin in CPS-based production systems.md",
-    "Digital twin paradigm-A systematic literature review.md",
-    "Digital Twin- Benefits, use cases, challenges, and opportunities.md",
-    "Digital twin-driven manufacturing cyber-physical system for parallelcontrolling of smart workshop.md",
-    "Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
+    "Drafts/Review.md",
+    "Drafts/Comparative-Table.md",
+    "Summary/FMU-supported simulation for CPS Digital Twin.md",
+    "Summary/Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
+    "Summary/Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0-360 Degree Comparison.md",
+    "Summary/Digital Twin as a Proxy for Industrial Cyber-Physical Systems.md",
+    "Summary/Digital Twin in CPS-based production systems.md",
+    "Summary/Digital twin paradigm-A systematic literature review.md",
+    "Summary/Digital Twin- Benefits, use cases, challenges, and opportunities.md",
+    "Summary/Digital twin-driven manufacturing cyber-physical system for parallelcontrolling of smart workshop.md",
+    "Summary/Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
     "Digital twins in CPS and relationship with Control System.md",
     "Pasted image 20250412235633.png",
     "FAULT--Digital twins in CPS and relationship with Control System.md",
     "CPS/sem-2/projects/Control Syste Project/FAULT--Digital twins in CPS and relationship with Control System.md",
     "CPS/sem-2/projects/Control Syste Project/Digital twins in CPS and relationship with Control System.md",
     "CTF/HTB/machines/titanic/titanic.md",
-    "CTF/HTB/machines/titanic/hash.txt~",
     "other stuff/TODO.md",
     "CTF/OTW/natas/natas.md",
     "CTF/HTB/machines/dog/dog.md",
