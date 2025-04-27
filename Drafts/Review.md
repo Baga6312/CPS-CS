@@ -45,7 +45,7 @@ More specifically:
 
 ##  Contribution
 
-Based on the analysis, this paper aims to:
+this paper aims to:
 - **Summarize and map** the current state-of-the-art in CPS/DT integration.
 - Provide a **comparative analysis** that highlights gaps in existing approaches.
 - Propose a **unified vision** or set of recommendations to overcome key limitations (e.g., how to tackle interoperability or security in DT-enabled CPS).
