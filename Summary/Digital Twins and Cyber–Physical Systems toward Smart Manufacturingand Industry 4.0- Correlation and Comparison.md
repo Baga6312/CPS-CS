@@ -85,4 +85,4 @@ To systematically compare **Cyber-Physical Systems (CPS)** and **Digital Twins (
 3. Actionable pathways for IoT/cloud/AI integration.  
 
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

@@ -78,4 +78,4 @@ To conduct a **systematic literature review (SLR)** analyzing the development of
 
 *Summarized per guidelines from "How to Summarize a Research Article" (University of Washington, 1997-2006).*  
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

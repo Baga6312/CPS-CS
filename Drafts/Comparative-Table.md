@@ -24,4 +24,4 @@ These shared concerns highlight the need for robust, secure, and scalable framew
 | 7 | *Concept and Engineering Development of Cyber Physical Production Systems: A Systematic Literature Review* | CPS Engineering | Systematic review | Engineering challenges and development strategies for CPS. |
 | 8 | *Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0: 360 Degree Comparison* | DT + Big Data | Comparative analysis | Relationship between DT, Big Data, and Industry 4.0. |
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

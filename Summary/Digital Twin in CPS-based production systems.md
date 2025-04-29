@@ -61,4 +61,4 @@ The authors conducted a **systematic literature review** of English-language pub
 
 The study clarifies DT’s definition as a **virtual, real-time synchronized model** of physical systems, emphasizing its transformative role in Industry 4.0. While research is nascent, DT’s integration with CPS and semantic frameworks promises advancements in predictive maintenance, lifecycle optimization, and smart manufacturing.
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

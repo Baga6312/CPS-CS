@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/Review.md",
+                "file": "Drafts/Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Review"
+              "title": "Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0"
             }
           }
         ]
@@ -169,13 +169,13 @@
   "active": "20c3708303a01c23",
   "lastOpenFiles": [
     "README.md",
-    "Draft-1.md",
-    "Drafts/Review.md",
+    "Drafts/Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0.md",
+    "Summary/Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
     "Drafts/Comparative-Table.md",
+    "Draft-1.md",
     "Summary/FMU-supported simulation for CPS Digital Twin.md",
     "Summary/Digital Twins and Cyber–Physical Systems toward Smart Manufacturingand Industry 4.0- Correlation and Comparison.md",
     "Summary/Digital Twin as a Proxy for Industrial Cyber-Physical Systems.md",
-    "Summary/Concept and Engineering Development of Cyber Physical Production Systems- A Systematic Literature Review - sammury.md",
     "Summary/Beginner's Guide to Digital Twins-sammury.md",
     "Untitled",
     "Drafts",

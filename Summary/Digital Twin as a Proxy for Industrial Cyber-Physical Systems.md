@@ -74,4 +74,4 @@ Abdullah Aziz, Olov Schelén, and Ulf Bodin. 2023. Digital Twin as a Proxy for I
 
 **Keywords**: Digital Twins, CPS, Industry 4.0, DTaaP.  
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

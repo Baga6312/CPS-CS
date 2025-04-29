@@ -75,4 +75,4 @@ Digital twins bridge physical and virtual worlds, revolutionizing industries thr
 **Reference**:  
 Semeraro, C., Lezoche, M., Panetto, H., & Dassisti, M. (2021). Digital Twin Paradigm: A Systematic Literature Review. *Computers in Industry, 130*, 103469. https://doi.org/10.1016/j.compind.2021.103469
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

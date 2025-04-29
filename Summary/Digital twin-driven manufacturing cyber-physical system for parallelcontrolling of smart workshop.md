@@ -66,4 +66,4 @@ The DT-driven MCPS framework successfully bridges physical and cyber spaces, ena
 _Adapted from Leng et al. (2019). Digital twin-driven manufacturing cyber-physical system for parallel controlling of smart workshop. Journal of Ambient Intelligence and Humanized Computing.**_**
 
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

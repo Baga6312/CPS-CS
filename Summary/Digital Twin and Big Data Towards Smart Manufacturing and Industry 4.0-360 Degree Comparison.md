@@ -83,4 +83,4 @@ The study underscores that **Big Data** and **Digital Twin** are mutually reinfo
 _Adapted from Qi & Tao (2018). Digital Twin and Big Data Towards Smart Manufacturing and Industry 4.0: 360 Degree Comparison. IEEE Access, 6, 3585–3593._
 
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]

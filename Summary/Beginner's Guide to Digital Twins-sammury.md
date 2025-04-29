@@ -73,4 +73,4 @@ https://www.machinedesign.com/automation-iiot/article/21147494/a-beginners-guide
 
 **Keywords**: Digital Twins, IoT, Predictive Maintenance, Simulation, Industry 4.0.  
 
-[[Review]]
+[[Summary Overview of Digital Twin Research in Cyber-Physical Systems and Industry 4.0]]
